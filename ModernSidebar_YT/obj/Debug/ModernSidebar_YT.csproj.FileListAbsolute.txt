@@ -1,0 +1,12 @@
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\bin\Debug\ModernSidebar_YT.exe.config
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\bin\Debug\ModernSidebar_YT.exe
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\bin\Debug\ModernSidebar_YT.pdb
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.Form1.resources
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.Properties.Resources.resources
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.exe
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.pdb
+C:\Users\Acer\Documents\BLAZOR\ModernSidebar_YT\ModernSidebar_YT\obj\Debug\ModernSidebar_YT.ucMenu.resources
